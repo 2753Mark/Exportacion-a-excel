@@ -1,3 +1,6 @@
+//©Copyright 2025 2753MARK
+
+
 function exportToExcel() {
     var table = document.getElementById("tableID");
     if (!table) {
